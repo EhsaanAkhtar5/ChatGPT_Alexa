@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ChatGPT Alexa", "ChatGPT Alexa\ChatGPT Alexa.pyproj", "{281400A0-BE1D-4D89-8B2B-53A84DC57C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281400A0-BE1D-4D89-8B2B-53A84DC57C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281400A0-BE1D-4D89-8B2B-53A84DC57C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F6926A-DED6-4EEB-B4FA-7C226C295514}
+	EndGlobalSection
+EndGlobal
